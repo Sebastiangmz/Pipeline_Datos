@@ -1,0 +1,29 @@
+{
+  "cols_num": [
+    "age",
+    "bmi",
+    "bp",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ],
+  "cols_cat": [
+    "sex"
+  ],
+  "pc_cols": [
+    "PC1",
+    "PC2",
+    "PC3",
+    "PC4",
+    "PC5",
+    "PC6",
+    "PC7"
+  ],
+  "cat_out_cols": [
+    "sex___1",
+    "sex___2"
+  ]
+}
